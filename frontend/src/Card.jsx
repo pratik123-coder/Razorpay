@@ -11,4 +11,4 @@ const Card = ({ amount, img, checkoutHandler }) => {
     )
 }
 
-export default Card
+export default Card;
